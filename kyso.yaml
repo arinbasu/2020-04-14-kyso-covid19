@@ -1,6 +1,5 @@
 title: "covid19 analysis"
 description: "Covid19 analysis"
-branch: main
 main: covid-analysis.ipynb
 tags:
   - covid19
